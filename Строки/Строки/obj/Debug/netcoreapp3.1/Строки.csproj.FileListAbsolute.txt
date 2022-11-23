@@ -1,0 +1,14 @@
+C:\Users\egorb\source\repos\Строки\Строки\bin\Debug\netcoreapp3.1\Строки.exe
+C:\Users\egorb\source\repos\Строки\Строки\bin\Debug\netcoreapp3.1\Строки.deps.json
+C:\Users\egorb\source\repos\Строки\Строки\bin\Debug\netcoreapp3.1\Строки.runtimeconfig.json
+C:\Users\egorb\source\repos\Строки\Строки\bin\Debug\netcoreapp3.1\Строки.runtimeconfig.dev.json
+C:\Users\egorb\source\repos\Строки\Строки\bin\Debug\netcoreapp3.1\Строки.dll
+C:\Users\egorb\source\repos\Строки\Строки\bin\Debug\netcoreapp3.1\Строки.pdb
+C:\Users\egorb\source\repos\Строки\Строки\obj\Debug\netcoreapp3.1\Строки.csproj.AssemblyReference.cache
+C:\Users\egorb\source\repos\Строки\Строки\obj\Debug\netcoreapp3.1\Строки.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egorb\source\repos\Строки\Строки\obj\Debug\netcoreapp3.1\Строки.AssemblyInfoInputs.cache
+C:\Users\egorb\source\repos\Строки\Строки\obj\Debug\netcoreapp3.1\Строки.AssemblyInfo.cs
+C:\Users\egorb\source\repos\Строки\Строки\obj\Debug\netcoreapp3.1\Строки.csproj.CoreCompileInputs.cache
+C:\Users\egorb\source\repos\Строки\Строки\obj\Debug\netcoreapp3.1\Строки.dll
+C:\Users\egorb\source\repos\Строки\Строки\obj\Debug\netcoreapp3.1\Строки.pdb
+C:\Users\egorb\source\repos\Строки\Строки\obj\Debug\netcoreapp3.1\Строки.genruntimeconfig.cache
